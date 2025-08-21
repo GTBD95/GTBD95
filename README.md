@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 
-🔧Skills I'm Learning
+🔧Skills I'm Learning /n
 Git & GitHub 
 Python (Flask / Streamlit / LINE Bot )
 Finance
 AI
 
-🎯 Goals
+🎯 Goals /n 
 get a job
 
-🌈 DREAM
+🌈 DREAM /n
 be a trillionaire 
