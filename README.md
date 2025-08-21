@@ -12,3 +12,6 @@ AI
 
 get a job
 
+🌈 DREAM
+
+be a trillionaire 
